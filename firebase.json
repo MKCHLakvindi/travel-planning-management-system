@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "TRAVEL PLANNING",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

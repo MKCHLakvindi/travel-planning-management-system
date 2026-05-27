@@ -1,1 +1,2 @@
-# travel-planning-management-system
+# travel-app
+ kdu -group project
